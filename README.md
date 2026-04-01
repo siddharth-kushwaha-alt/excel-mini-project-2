@@ -9,7 +9,7 @@ The objective of this project is to practice data analysis and data handling usi
 - Sorting and Filtering
 - Data Validation
 - Lookup Functions (VLOOKUP / HLOOKUP)
-- Basic Data Analysis
+- Basic Data Analysis.
 
 ## What I Learned
 - How to organize and clean raw data for analysis
