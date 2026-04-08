@@ -15,7 +15,7 @@ The objective of this project is to practice data analysis and data handling usi
 - How to organize and clean raw data for analysis
 - How to use lookup functions to retrieve relevant information
 - How to apply data validation to reduce data entry errors
-- How to analyze structured data using Excel features
+- How to analyze structured data using Excel features.
 
 ## Files Included
 - MINI PROJECT 2 NEW.xlsx
